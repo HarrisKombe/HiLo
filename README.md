@@ -1,2 +1,2 @@
 # HiLo
- 
+ The game starts with 300 points. Individual cards are represented as a number from 1 to 13, and the current card is displayed. Then the player takes a guess if the drawn card is higher or lower, then the next card is drawn. The player earns 100 points is the guess in correct or else losses 70 points if guessed incorectly. If the player reaches 0 points then the game is over. If the player has more than 0 points and decided to play the game will continue. Else the game is over when the player chooses not to play.
