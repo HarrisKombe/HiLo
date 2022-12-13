@@ -1,0 +1,15 @@
+/Users/harrismorgan/Desktop/HiLo/bin/Debug/net7.0/HiLo
+/Users/harrismorgan/Desktop/HiLo/bin/Debug/net7.0/HiLo.deps.json
+/Users/harrismorgan/Desktop/HiLo/bin/Debug/net7.0/HiLo.runtimeconfig.json
+/Users/harrismorgan/Desktop/HiLo/bin/Debug/net7.0/HiLo.dll
+/Users/harrismorgan/Desktop/HiLo/bin/Debug/net7.0/HiLo.pdb
+/Users/harrismorgan/Desktop/HiLo/obj/Debug/net7.0/HiLo.csproj.AssemblyReference.cache
+/Users/harrismorgan/Desktop/HiLo/obj/Debug/net7.0/HiLo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harrismorgan/Desktop/HiLo/obj/Debug/net7.0/HiLo.AssemblyInfoInputs.cache
+/Users/harrismorgan/Desktop/HiLo/obj/Debug/net7.0/HiLo.AssemblyInfo.cs
+/Users/harrismorgan/Desktop/HiLo/obj/Debug/net7.0/HiLo.csproj.CoreCompileInputs.cache
+/Users/harrismorgan/Desktop/HiLo/obj/Debug/net7.0/HiLo.dll
+/Users/harrismorgan/Desktop/HiLo/obj/Debug/net7.0/refint/HiLo.dll
+/Users/harrismorgan/Desktop/HiLo/obj/Debug/net7.0/HiLo.pdb
+/Users/harrismorgan/Desktop/HiLo/obj/Debug/net7.0/HiLo.genruntimeconfig.cache
+/Users/harrismorgan/Desktop/HiLo/obj/Debug/net7.0/ref/HiLo.dll
